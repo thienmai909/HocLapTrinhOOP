@@ -1,0 +1,38 @@
+{
+    "quantity": 2,
+    "customers": [
+        {
+            "age": 20,
+            "name": "Mai Huu Thien",
+            "numberoftickets": 2,
+            "sex": "Nam",
+            "ticket": {
+                "flightdate": "13:30 20/10/2024",
+                "flightname": "TP Ho Chi Minh den Ha Noi",
+                "flightticketprice": 5000000
+            }
+        },
+        {
+            "age": 20,
+            "name": "Bui Thi Hong Dung",
+            "numberoftickets": 1,
+            "sex": "Nu",
+            "ticket": {
+                "flightdate": "21:30 31/12/2024",
+                "flightname": "Da Nang den Phu Quoc",
+                "flightticketprice": 3500000
+            }
+        },
+        {
+            "age": 20,
+            "name": "Le Thi Thu Nguyet",
+            "numberoftickets": 3,
+            "sex": "Nu",
+            "ticket": {
+                "flightdate": "13:15 20/11/2024",
+                "flightname": "Cam Ranh den Van Don",
+                "flightticketprice": 4500000
+            }
+        }
+    ]
+}
